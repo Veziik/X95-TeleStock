@@ -11,12 +11,12 @@ All the files in this repository (Veziik/X95-TeleStock) are licensed under the G
 
 1. Go into the Content Files folder.
 
-2. Print the following files on your printer of choice at 70% infill (I used gyroid infill) and orient them sideways:
-    - LockingBody.stl
-    - TelescopingPad.stl
-    - LockingButton.stl.
-    - Endcap-Left.stl
-    - Endcap-Right.stl
+2. Print the following files on your printer of choice with 5 walls and 50% infill (I used gyroid infill):
+    - LockingBody.stl: Orient with the opening for the button facing up
+    - TelescopingPad.stl: Orient with the stippled setion facing up
+    - LockingButton.stl: Lay on one side
+    - Endcap-Left.stl: Orient so the larger L shape is touching the print bed
+    - Endcap-Right.stl: Orient so the larger L shape is touching the print bed
 
 3. You'll need one of the following to cut the locking pin and the two steel arms: A waterjet cutter, a laser cutter, a cnc mill, or a regular mill. Ideally you'll want to use a waterjet and/or a service that provides cutting of sheet metak to bypass this step.
 
