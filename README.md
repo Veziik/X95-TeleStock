@@ -35,7 +35,7 @@ All the files in this repository (Veziik/X95-TeleStock) are licensed under the G
 - 2x M4x8mm or M4x10mm Countersunk Screws.
 - 2x 4mm Bolts.
 
-# IF YOU ARE BUILDING THIS AT HOME FOR YOUR OWN X95, FOLLOW EITHER SET OF INSTRUCTIONS EXACTLY TO REMAIN COMPLIANT WITHIN YOUR STATE THROUGHOUT THE BUILD PROCESS
+# IF YOU ARE BUILDING THIS AT HOME FOR YOUR OWN X95, FOLLOW THE SET OF INSTRUCTIONS EXACTLY TO REMAIN COMPLIANT WITHIN YOUR STATE THROUGHOUT THE BUILD PROCESS
 ## Build order:
 1. Do not disassemble your X95 yet.
 2. Insert the spring into the main locking body, aka the body which houses the button and locking pin.
@@ -56,4 +56,5 @@ All the files in this repository (Veziik/X95-TeleStock) are licensed under the G
 # Use Guidelines
 This is a telescoping stock made out of plastic, it is not made for buttstroking doors, tables, neighbors, or yourself. It will otherwise readily handle the recoil of the 9mm, 5.56 and .300Blk catrtridges when fully collapsed or at any locking point.
 
-### When Repairing, ALWAYS keep at least one telesoping arm inserted into the main locking body or completely disassemble the firearm before repairing, regardless of damage taken. NEVER leave the main locking body without telescoping bars. When replacing both bars, simply swap the bars out one at a time, and always keep the pad connected to the telescoping bars whenever possible. 
+# Repair Guidelines
+When Repairing, ALWAYS keep at least one telesoping arm inserted into the main locking body or completely disassemble the firearm before repairing, regardless of damage taken. NEVER leave the main locking body without telescoping bars. When replacing both bars, simply swap the bars out one at a time, and always keep the pad connected to the telescoping bars whenever possible. 
